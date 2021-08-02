@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ebi1553
 - 👀 I’m interested in ... Deep Learning and Siesmology
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... Seismic Faceis & Log prediction Modeling by deep learning
+- 💞️ I’m looking to collaborate on ... Seismic Faceis Modeling & Log prediction  by deep learning
 - 📫 How to reach me ... ebrahimk1374@gmail.com
 
 <!---
